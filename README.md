@@ -7,11 +7,6 @@
 [![Zero Trust](https://img.shields.io/badge/Zero%20Trust-Devices%20Pillar-green?style=flat)](https://learn.microsoft.com/en-us/security/zero-trust/)
 [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/)
 
-> **Microsoft 365 Infrastructure Portfolio — Project 2 of 7**
-> Builds directly on [Project 1 — Zero Trust Identity Perimeter](../Project-1-Zero-Trust-Identity-Perimeter/).
-
----
-
 ## Business Problem
 
 Project 1 established that **identity alone cannot be trusted** — every user must prove who they are via MFA and risk-based Conditional Access. But identity is only half the equation.
