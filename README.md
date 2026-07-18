@@ -402,4 +402,4 @@ See [`docs/06-validation-testing.md`](docs/06-validation-testing.md)
 
 ---
 
-*Part of the [Microsoft 365 Infrastructure Portfolio](../README.md) · Builds on [Project 1 — Zero Trust Identity Perimeter](https://github.com/lokeshm-it/m365-zero-trust-identity)*
+*Part of the [Microsoft 365 Infrastructure Portfolio](https://www.lokeshmurali.com/projects) · Builds on [Project 1 — Zero Trust Identity Perimeter](https://github.com/lokeshm-it/m365-zero-trust-identity)*
