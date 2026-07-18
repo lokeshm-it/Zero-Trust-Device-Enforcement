@@ -155,7 +155,7 @@ See [`architecture/zero-trust-device-trust.md`](architecture/zero-trust-device-t
 | Actions for non-compliance | **Mark immediately** | No grace period — non-compliant devices lose access immediately |
 | Assigned to | All devices | Applies to every enrolled endpoint |
 
-> Screenshot evidence: [`images/A1-device-enrolled/`](images/A1-device-enrolled/) · [`images/A3-compliance-status/`](images/A3-compliance-status/)
+> Screenshot evidence: [`images/Appendix_A.1_ Intune Device Enrolled.png`](images/Appendix_A.1_%20Intune%20Device%20Enrolled.png) · [`images/Appendix_A.3_ Device Compliance Status.png`](images/Appendix_A.3_%20Device%20Compliance%20Status.png)
 
 ---
 
@@ -174,7 +174,7 @@ See [`architecture/zero-trust-device-trust.md`](architecture/zero-trust-device-t
 | Fixed data drive encryption | XTS-AES 128-bit |
 | Removable drive encryption | AES-CBC 128-bit |
 
-> Screenshot evidence: [`images/A1-device-enrolled/`](images/A1-device-enrolled/) — device compliant confirms BitLocker requirement met
+> Screenshot evidence: [`images/Appendix_A.1_ Intune Device Enrolled.png`](images/Appendix_A.1_%20Intune%20Device%20Enrolled.png) — device compliant confirms BitLocker requirement met
 
 ---
 
@@ -187,7 +187,7 @@ See [`architecture/zero-trust-device-trust.md`](architecture/zero-trust-device-t
 | Platforms connected | Windows, iOS, Android |
 | Allow MDE to enforce endpoint security | On |
 
-> Screenshot evidence: [`images/A5-defender-connection/`](images/A5-defender-connection/)
+> Screenshot evidence: [`images/Appendix_A.5_ Defender Page.png`](images/Appendix_A.5_%20Defender%20Page.png)
 
 ---
 
@@ -203,7 +203,7 @@ See [`architecture/zero-trust-device-trust.md`](architecture/zero-trust-device-t
 | Grant | Require device to be marked as compliant |
 | State | Report-only → validate → **On** |
 
-> Screenshot evidence: [`images/A4-ca-report-only/`](images/A4-ca-report-only/) · [`images/A6-ca-enforced/`](images/A6-ca-enforced/)
+> Screenshot evidence: [`images/Appendix_A.4_ Device Compliance Policy Report Only.png`](images/Appendix_A.4_%20Device%20Compliance%20Policy%20Report%20Only.png) · [`images/Appendix_A.6_ Device Compliance Policy Enabled.png`](images/Appendix_A.6_%20Device%20Compliance%20Policy%20Enabled.png)
 
 ---
 
@@ -246,7 +246,7 @@ See [`docs/02-windows-compliance-policy.md`](docs/02-windows-compliance-policy.m
 
 Immediately after policy assignment, `PTC_01` showed **Noncompliant** — BitLocker was not enabled. This is expected and validates that the compliance policy is actively evaluating the device.
 
-See [`images/A3-compliance-status/`](images/A3-compliance-status/)
+See [`images/Appendix_A.3_ Device Compliance Status.png`](images/Appendix_A.3_%20Device%20Compliance%20Status.png)
 
 ---
 
