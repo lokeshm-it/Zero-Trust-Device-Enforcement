@@ -24,7 +24,7 @@ This is the difference between checking for a lock and actually installing one.
 | Fixed Data Drives | Encryption method | **XTS-AES 128-bit** (default) |
 | Removable Drives | Encryption method | **AES-CBC 128-bit** (default) |
 
-> Export evidence: [`exports/Disk-Encryption-Policy.pdf`](exports/Disk-Encryption-Policy.pdf)
+> **Configuration evidence:** The BitLocker settings documented above reflect the actual Disk Encryption endpoint security policy configured in Intune. A PDF export of this policy page was not captured during this lab; the applied configuration is validated directly on-device in the Validation section below.
 
 ---
 
